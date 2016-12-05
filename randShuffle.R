@@ -1,9 +1,9 @@
 ####################
 # 
 # Randomly shuffles the rows of the input data frame
-# Inputs:  df - dplyr data frame to be shuffled
+# Inputs:  df - data frame to be shuffled
 # 
-# Outputs: df - the shuffled dplyr data frame
+# Outputs: df - the shuffled data frame
 # 
 ####################
 
